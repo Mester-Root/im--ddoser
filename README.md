@@ -10,7 +10,7 @@ ____________
 
 `cd im--ddoser`
 
-`chmod 777 +x *`
+`sudo chmod 777 +x *`
 
 `perl im--ddoser.pl`
 ______________
